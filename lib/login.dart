@@ -48,7 +48,7 @@ class _LoginState extends State<Login> {
             host: "smtp-relay.brevo.com",
             auth: true,
             username: "dep24p02@gmail.com",
-            password: "PDTM2fHF36S0AhUt",
+            password: "YOUR_PASSWORD",
             secure: "TLS",
             port: 587
         );
